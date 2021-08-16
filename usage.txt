@@ -1,0 +1,1 @@
+set up using screens, type screen then Ctrl a (release ctrl) + d to disconnect from screen and screen -r to revisit
